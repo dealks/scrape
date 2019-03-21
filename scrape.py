@@ -152,7 +152,7 @@ def get_posting(url):
 
 
 
-def get_data(query, num_pages, location='Massachusetts'):
+def get_data(query, num_pages, location='Ohio'):
     """
     Get all the job posting data and save in a json file using below structure:
 
